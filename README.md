@@ -26,3 +26,9 @@ We add 2 fully connected dense layers on top of resnet. The data flows are like 
 5. Output with sigmoid activation
 
 ![model](model.png)
+
+### Result
+
+The final score would be about `0.92` in ROC
+
+![score](score.png)
